@@ -1,7 +1,7 @@
 # deep_virus_gama09
 Python scripts for the analysis of deep VIRUS data in the GAMA09 field for my master thesis.
 
-# description of the scripts
+## description of the scripts
 * gama_tools.py - general setup and loading the data from the h5 files
 * save radial profiles of LAEs, simulated LAEs, stars, and random locations: save_laes.py, save_simulated_laes.py, save_stars.py, save_bogus.py
 * save average rest-frame spectra of the LAEs: save_core_spectra.py, LAE_sample_plot_and_average_spectra.ipynb
